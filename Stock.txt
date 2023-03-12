@@ -5,6 +5,6 @@
 5,Ball,30,50
 6,Toy blocks,20,20
 7,Spinning top,10,15
-8,Robot,15,4
+8,Robot,15,5
 9,Doll Barby,20,30
 10,Teddy bear,30,40
