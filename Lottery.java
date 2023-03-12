@@ -25,6 +25,7 @@ public class Lottery {
                 winner.name = toys[1];
                 winner.number = Integer.parseInt(toys[2])-1;
                 winner.probability = Integer.parseInt(toys[3]);
+                Toys.changeNums(winner);
                 break;
             } else {
                 winnerNums = winnerNums - Integer.parseInt(toys[3]);
