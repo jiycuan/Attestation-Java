@@ -1,0 +1,10 @@
+1,Rocking horse,10,15
+2,Toy trayn,5,2
+3,Lego Castle,2,1
+4,Toy Car,7,5
+5,Ball,30,50
+6,Toy blocks,20,20
+7,Spinning top,10,15
+8,Robot,15,4
+9,Doll Barby,20,30
+10,Teddy bear,30,40
